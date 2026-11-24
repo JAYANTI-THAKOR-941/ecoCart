@@ -30,3 +30,30 @@ ecoCart is a **full-stack MERN (MongoDB, Express.js, React, Node.js)** e-commerc
 ```bash
 git clone https://github.com/JAYANTI-THAKOR-941/ecoCart.git
 cd ecoCart
+
+---
+
+## EcoCart — Full-stack Store
+
+React storefront and admin dashboard with product and user management, backend authentication and uploads.
+
+## Project structure
+
+- `client/`
+- `server/controllers/`
+- `server/model/`
+- `server/routes/`
+- `server/middlewares/`
+
+## Getting started
+
+```bash
+git clone https://github.com/JAYANTI-THAKOR-941/ecoCart.git
+cd ecoCart
+```
+
+Install dependencies in `client` and `server`, configure the local database and authentication, then start the backend and frontend using their package scripts.
+
+## Security
+
+A `.env` file is tracked in this repository. Rotate any real credentials it contains, use ignored local environment files, and never publish secret values.
